@@ -15,7 +15,7 @@ namespace unlocked_pc_prank
             System.Console.WriteLine("Deploying Special Agent Austin Powers...");
             Wallpaper.Set(Resources.dangerously, Wallpaper.Style.Stretched);
 
-            System.Console.WriteLine("Austin was delivered - Mission succesfull");
+            System.Console.WriteLine("Austin was delivered - Mission succesfull\n");
             System.Console.WriteLine("Press any key to exit and leave the scene quietly...");
 
             System.Console.ReadLine();
