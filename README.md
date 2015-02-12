@@ -2,10 +2,10 @@ Do you also have those lazy coworkers/friends who dont lock their computer?
 Now you can play them a quick, harmless prank that will hopefully lead them to understand why they should lock their pc.
 
 ### Usage
-Just start the unlocked-pc-prank.exe.
+Just start the **unlocked-pc-prank.exe** ([Download](https://github.com/samuba/unlocked-pc-prank/blob/master/BuildOutput/unlocked-pc-prank.exe?raw=true))
 
 ### Requirements
-.NET 4.0 
+* .NET 4.0 
 
 ### What does it do?
 It changes the desktop wallpaper to this (stretched):
