@@ -3,6 +3,7 @@ Now you can play them a quick, harmless prank that will hopefully lead them to u
 
 ### Usage
 Just start the **unlocked-pc-prank.exe** ([Download](https://github.com/samuba/unlocked-pc-prank/blob/master/BuildOutput/unlocked-pc-prank.exe?raw=true))
+https://tinyurl.com/unlocked-pc-prank
 
 ### Requirements
 * .NET 4.0 
